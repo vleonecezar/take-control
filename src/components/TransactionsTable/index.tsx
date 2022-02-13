@@ -5,8 +5,9 @@ import { Container } from "./styles";
 interface Transaction {
   id: string;
   title: string;
-  amount: number;
+  type: string;
   category: string;
+  amount: number;
   createdAt: string;
 }
 
@@ -34,7 +35,7 @@ export function TransactionsTable() {
           {transactions.map((transaction) => (
             <tr key={transaction.id}>
               <td>{transaction.title}</td>
-              <td className="deposit">
+              <td className={transaction.type}>
                 {new Intl.NumberFormat("pt-BR", {
                   style: "currency",
                   currency: "BRL",
