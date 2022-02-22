@@ -1,8 +1,7 @@
 <h1>Take Control 💸</h1>
 
 <div style="text-align: justify;">
-<strong>Take Control</strong> é um app onde você pode ter controle das suas finanças, registrando entradas e saídas com as transações do dia a dia.<br/>
-O app usa o Mirage JS parar simular o backend e seu banco de dados fornecendo uma fake API.
+<strong>Take Control</strong> é um app onde você pode ter controle das suas finanças, registrando entradas e saídas com as transações do dia a dia. O app usa o Mirage JS parar simular o backend e seu banco de dados fornecendo uma fake API.
 <br /><br />
 </div>
 
