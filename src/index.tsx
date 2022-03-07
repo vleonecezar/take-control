@@ -32,7 +32,8 @@ createServer({
   },
 
   routes() {
-    this.namespace = "api";
+    /* the namespace is "api", it was changed to "take-control" just because the gh-pages */
+    this.namespace = "take-control";
 
     this.get("/transactions", () => {
       return this.schema.all("transaction");
