@@ -32,7 +32,7 @@ createServer({
   },
 
   routes() {
-    this.namespace = "api";
+    this.namespace = "";
 
     this.get("/transactions", () => {
       return this.schema.all("transaction");
