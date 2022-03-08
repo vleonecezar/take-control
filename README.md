@@ -7,8 +7,7 @@
 
 <div align="center">
 
-![155047320-229e2635-a5e0-4b1a-abc5-b85f4ccbd0ea](https://user-images.githubusercontent.com/76831929/156955801-5dbe3020-f610-4518-80ae-4cd53e3ad391.png)
-![155047480-066b35aa-c06c-49b0-969f-b59ae87d0852](https://user-images.githubusercontent.com/76831929/156955805-71a8276d-34cb-4f67-aa06-4d02369138a5.png)
+![takecontrol](https://user-images.githubusercontent.com/76831929/157147568-afeb41d7-8f6b-44b7-8bff-693066588965.gif)
 
 </div>
 
